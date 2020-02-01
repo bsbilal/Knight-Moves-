@@ -15,6 +15,6 @@ Seçeceğimiz kareden başlayarak oyundaki tüm kareleri gezmeye çalışacağı
 
 ## Authors
 
-* **Bilal Başulaş***  - [bsBilal](https://github.com/bsBilal)
+*  - [bsBilal](https://github.com/bsBilal)
 
 
